@@ -30,10 +30,6 @@ body {
     letter-spacing: -0.02em;
     text-transform: uppercase;
 }
-.projects {
-   
-    overflow:hidden;
-}
 .content-footer {
   /* Red, Green, Blue: #RRGGBB */
   background-color: #000000;
