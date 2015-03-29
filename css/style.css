@@ -81,10 +81,10 @@ Projects Section
 .projects {
     background-color: #fff;
     overflow: hidden;
-    padding-bottom: 5rem;
+    padding-bottom: 3rem;
 }
 .projects .content {
-    margin-top: 7.875rem;
+    margin-top: 5rem;
     padding: none;
     color: #1d1e21;
     text-align: center;
@@ -97,6 +97,8 @@ Projects Section
 .projects .my-projects > li {
   width: 33.3333333%;
   float: left;
+  padding-left: 10%;
+  
 }
 .projects .my-projects h3 {
   font-weight: 400;
