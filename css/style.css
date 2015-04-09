@@ -93,13 +93,13 @@ Projects Section
     margin: 1.625rem 0px 3.125rem;
     font-weight: 300;
 }
-.projects .my-projects > li {
+.projects .projects-first > li {
   width: 33.3333333%;
   float: left;
   padding-left: 10%;
   
 }
-.projects .my-projects h3 {
+.projects .projects-first h3 {
   font-weight: 400;
   font-size: 1.563rem;
   margin: .1rem 0px 1.875rem;
@@ -150,6 +150,8 @@ a {color: #FF530D; text-decoration: none;
 }
 a:hover {color: #ffffff; text-decoration: none; 
 }
+/***responsive section
+*/
 @media only screen and (max-width: 500px) {
     .masthead {
         padding: 3em 0;
